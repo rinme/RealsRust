@@ -1,3 +1,6 @@
 [submodule "src/Texample"]
 	path = src/Texample
 	url = https://github.com/rinme/RealsTexample
+[submodule "src/RealsTexample"]
+	path = src/RealsTexample
+	url = https://github.com/rinme/RealsTexample
